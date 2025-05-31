@@ -3,13 +3,15 @@
 This is a basic Android Student Registration Portal application developed using Java and SQLite. It provides essential functionality to register students, log in, view user information, update passwords, and delete user accounts.
 ## ✨ Features
 ![portal](https://github.com/user-attachments/assets/612b68cc-c47b-476e-9f86-d339d23bb98b)
-- ✅ Stud![portal1](https://github.com/user-attachments/assets/3cea54d3-3db4-449a-b7b2-fd6d7e6ff0ce)
-- 
-gistration (Sign Up)
+ 
+registration (Sign Up)
+![portal1](https://github.com/user-attachments/assets/3cea54d3-3db4-449a-b7b2-fd6d7e6ff0ce)
+
 - 🔐 Login Functionality (Authentication)
 - ![portal2](https://github.com/user-attachments/assets/8f7d7b48-baec-4e25-bc58-86628f623833)
-- 🏠 View U![portal3](https://github.com/user-attachments/assets/a32181e5-b3e1-40f2-849c-ef7c8be4a182)
-- 
+  
+- ![portal3](https://github.com/user-attachments/assets/a32181e5-b3e1-40f2-849c-ef7c8be4a182)
+
 ser Details on Home Page
 - 🔄 Change Password
 - 🗑️ Delete User Account
