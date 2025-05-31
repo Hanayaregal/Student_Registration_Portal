@@ -7,12 +7,13 @@ This is a basic Android Student Registration Portal application developed using 
 registration (Sign Up)
 ![portal1](https://github.com/user-attachments/assets/3cea54d3-3db4-449a-b7b2-fd6d7e6ff0ce)
 
+
 - 🔐 Login Functionality (Authentication)
 - ![portal2](https://github.com/user-attachments/assets/8f7d7b48-baec-4e25-bc58-86628f623833)
-  
+
+ ser Details on Home Page
 - ![portal3](https://github.com/user-attachments/assets/a32181e5-b3e1-40f2-849c-ef7c8be4a182)
 
-ser Details on Home Page
 - 🔄 Change Password
 - 🗑️ Delete User Account
 - ![portal4](https://github.com/user-attachments/assets/99894834-c923-43e1-a5ae-695b75f79602)
