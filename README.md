@@ -11,7 +11,7 @@ registration (Sign Up)
 
  ser Details on Home Page
 - ![portal3](https://github.com/user-attachments/assets/a32181e5-b3e1-40f2-849c-ef7c8be4a182)
-
+  
 - 🔄 Change Password
 - 🗑️ Delete User Account
 - ![portal4](https://github.com/user-attachments/assets/99894834-c923-43e1-a5ae-695b75f79602)
