@@ -6,8 +6,6 @@ This is a basic Android Student Registration Portal application developed using 
  
 registration (Sign Up)
 ![portal1](https://github.com/user-attachments/assets/3cea54d3-3db4-449a-b7b2-fd6d7e6ff0ce)
-
-
 - 🔐 Login Functionality (Authentication)
 - ![portal2](https://github.com/user-attachments/assets/8f7d7b48-baec-4e25-bc58-86628f623833)
 
