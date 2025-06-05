@@ -2,19 +2,20 @@
 
 This is a basic Android Student Registration Portal application developed using Java and SQLite. It provides essential functionality to register students, log in, view user information, update passwords, and delete user accounts.
 ## ✨ Features
-![portal](https://github.com/user-attachments/assets/612b68cc-c47b-476e-9f86-d339d23bb98b)
- 
+![port1](https://github.com/user-attachments/assets/6698be20-e3e1-4ab1-982d-5e11279dad1d)
+
 registration (Sign Up)
-![portal1](https://github.com/user-attachments/assets/3cea54d3-3db4-449a-b7b2-fd6d7e6ff0ce)
+![port2](https://github.com/user-attachments/assets/1400c721-339e-4477-aef6-9bc0de6fa1bd)
+
 - 🔐 Login Functionality (Authentication)
-- ![portal2](https://github.com/user-attachments/assets/8f7d7b48-baec-4e25-bc58-86628f623833)
+  ![port3](https://github.com/user-attachments/assets/b4e8f67c-223e-4e55-a264-1f5f11d54d0a)
 
  ser Details on Home Page
-- ![portal3](https://github.com/user-attachments/assets/a32181e5-b3e1-40f2-849c-ef7c8be4a182)
-  
+ ![port4](https://github.com/user-attachments/assets/2335e05a-0c6c-452a-9258-9e26aec7a33e)
+
 - 🔄 Change Password
 - 🗑️ Delete User Account
-- ![portal4](https://github.com/user-attachments/assets/99894834-c923-43e1-a5ae-695b75f79602)
+![port5](https://github.com/user-attachments/assets/533e8066-034f-48c4-a42b-3cc171c0e779)
 
 ## 📱 Tech Stack
 - Language: Java
